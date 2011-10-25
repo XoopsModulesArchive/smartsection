@@ -112,7 +112,7 @@ function upgradeDB()
         						metakey varchar(50) NOT NULL default '',
         						metavalue varchar(255) NOT NULL default '',
         						PRIMARY KEY (metakey))
-        						TYPE=MyISAM;");
+        						ENGINE=MyISAM;");
 
         $table->setData(sprintf("'version', %s", $xoopsDB->quoteString($ver)));
        	$ret = $ret && $dbupdater->updateTable($table);
@@ -170,7 +170,7 @@ function upgradeDB()
   							  mime_admin int(1) NOT NULL default '1',
   							  mime_user int(1) NOT NULL default '0',
   							  KEY mime_id (mime_id)
-  							  ) TYPE=MyISAM;");
+  							  ) ENGINE=MyISAM;");
 
         $table->setData("1, 'bin', 'application/octet-stream', 'Binary File/Linux Executable', 0, 0");
 		$table->setData("2, 'dms', 'application/octet-stream', 'Amiga DISKMASHER Compressed Archive', 0, 0");
@@ -377,7 +377,7 @@ function upgradeDB()
 	  							  mime_admin int(1) NOT NULL default '1',
 	  							  mime_user int(1) NOT NULL default '0',
 	  							  KEY mime_id (mime_id)
-	  							  ) TYPE=MyISAM;");
+	  							  ) ENGINE=MyISAM;");
 
 	        $table->setData("1, 'bin', 'application/octet-stream', 'Binary File/Linux Executable', 0, 0");
 			$table->setData("2, 'dms', 'application/octet-stream', 'Amiga DISKMASHER Compressed Archive', 0, 0");
