@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: admin.php 1470 2008-04-07 16:04:52Z kurak_bu $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: about.php 3441 2008-07-05 11:44:44Z malanciault $
+* $Id$
 * Module: SmartPartner
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

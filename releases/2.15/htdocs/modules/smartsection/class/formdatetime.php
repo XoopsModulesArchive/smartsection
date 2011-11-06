@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: formdatetime.php 331 2007-12-23 16:01:11Z malanciault $
+* $Id$
 * Module: Espace1
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

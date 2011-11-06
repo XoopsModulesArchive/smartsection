@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: common.php,v 1.4 2005/10/20 00:33:52 malanciault Exp $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

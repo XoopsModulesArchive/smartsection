@@ -1,7 +1,7 @@
 <?php // Traducción de www.riosoft.es | www.rioxoops.es
 
 /**
-* $Id: common.php 3334 2008-06-26 22:48:28Z juancj $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

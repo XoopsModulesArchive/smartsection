@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: pagewrap.php 331 2007-12-23 16:01:11Z malanciault $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Credits : TinyContent developped by Tobias Liegl (AKA CHAPI) (http://www.chapi.de)

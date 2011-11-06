@@ -1,5 +1,5 @@
 <?php
-// $Id: makepdf.php 2777 2008-06-12 09:18:44Z pesian_stranger $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //

@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: items_recent.php 1449 2008-04-06 05:10:14Z malanciault $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

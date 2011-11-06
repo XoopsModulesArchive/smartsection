@@ -1,5 +1,5 @@
 <?php
-// $Id: blocksadmin.inc.php 806 2008-02-07 13:33:55Z fx2024 $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //

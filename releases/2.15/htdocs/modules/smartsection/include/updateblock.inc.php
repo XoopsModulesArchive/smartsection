@@ -1,5 +1,5 @@
 <?php
-// $Id: updateblock.inc.php 331 2007-12-23 16:01:11Z malanciault $
+// $Id$
 
 if( ! defined( 'XOOPS_ROOT_PATH' ) ) exit ;
 
