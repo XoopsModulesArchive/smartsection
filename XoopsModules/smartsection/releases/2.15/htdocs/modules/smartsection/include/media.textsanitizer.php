@@ -8,7 +8,7 @@
  * @license		http://www.fsf.org/copyleft/gpl.html GNU public license
  * @author		Taiwen Jiang (phppp or D.J.) <php_pp@hotmail.com>
  * @since		4.00
- * @version		$Id: media.textsanitizer.php 331 2007-12-23 16:01:11Z malanciault $
+ * @version		$Id$
  * @package		Frameworks::textsanitizer
  */
 

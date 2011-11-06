@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: modinfo.php 3195 2008-06-23 17:03:58Z xoops-magazine $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

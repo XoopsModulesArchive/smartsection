@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: blocks.php,v 1.11 2005/10/31 13:18:45 malanciault Exp $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

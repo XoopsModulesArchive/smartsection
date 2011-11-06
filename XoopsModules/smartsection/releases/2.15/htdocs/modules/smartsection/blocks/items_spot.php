@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: items_spot.php 1565 2008-04-13 14:54:29Z malanciault $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

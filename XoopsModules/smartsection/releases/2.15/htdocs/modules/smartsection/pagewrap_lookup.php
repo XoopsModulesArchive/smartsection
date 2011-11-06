@@ -8,7 +8,7 @@ echo "test";
 
 
 
-//$Id: pagewrap_lookup.php 331 2007-12-23 16:01:11Z malanciault $
+//$Id$
 /*
 require_once('header.php');
 

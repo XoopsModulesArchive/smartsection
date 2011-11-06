@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: category.php 3433 2008-07-05 10:24:09Z malanciault $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

@@ -36,7 +36,7 @@ if (!function_exists('smart_TableExists')) {
  *
  * @license GNU
  * @author marcan <marcan@smartfactory.ca>
- * @version $Id: smartdbupdater.php 331 2007-12-23 16:01:11Z malanciault $
+ * @version $Id$
  * @link http://www.smartfactory.ca The SmartFactory
  * @package SmartObject
  */

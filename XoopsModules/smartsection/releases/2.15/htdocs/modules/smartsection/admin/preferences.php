@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: preferences.php 331 2007-12-23 16:01:11Z malanciault $
+* $Id$
 * Module: SmartPartner
 * Author: Xavier JIMENEZ
 * Licence: GNU

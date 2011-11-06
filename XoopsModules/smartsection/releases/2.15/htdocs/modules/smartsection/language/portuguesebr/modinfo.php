@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: modinfo.php 3211 2008-06-23 21:12:24Z gibaphp $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU
@@ -239,7 +239,7 @@ define('_MI_SSECTION_DATE_TO_DATE', 'Artigos da data até à data')
 ?><?php
 
 /**
-* $Id: modinfo.php 3211 2008-06-23 21:12:24Z gibaphp $
+* $Id$
 * Module: SmartSection
 * Author: The SmartFactory <www.smartfactory.ca>
 * Licence: GNU

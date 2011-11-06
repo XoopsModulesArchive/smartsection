@@ -1,7 +1,7 @@
 <?php
 
 /**
-* $Id: docbook_export.php 1429 2008-04-05 02:00:06Z malanciault $
+* $Id$
 * Module: SmartSection
 * Author: mariuss
 * Licence: GNU
