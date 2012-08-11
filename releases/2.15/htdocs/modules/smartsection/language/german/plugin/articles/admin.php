@@ -99,7 +99,7 @@ define("_AM_SSECTION_REJECTED_ITEM", "Abgelehnter Artikel");
 define("_AM_SSECTION_REJECTED_ITEM_EXP", "<strong>Abgelehnter Artikel</strong> : Artikel von Benutzern eingereicht, jedoch von Moderatoren abgelehnt wurde. Abgelehnte Artikel sind den Benutzern nicht zug&auml;nglich.");
 define("_AM_SSECTION_STATUS_DSC", "W&auml;hlen Sie den Status f&uuml;r diesen Artikel aus");
 define("_AM_SSECTION_SUBMISSIONSMNGMT", "Eingereichte Artikel");
-define ("_AM_SSECTION_SUBMISSION_MODERATE", "Diesen Artikel Moderieren");
+define("_AM_SSECTION_SUBMISSION_MODERATE", "Diesen Artikel Moderieren");
 define("_AM_SSECTION_SUBMITTED_APPROVE_SUCCESS", "Der eingereichte Artikel, wurde ver&ouml;ffentlicht und den Besuchern zug&auml;nglich gemacht.");
 define("_AM_SSECTION_SUBMITTED_EXP", "<b>Submitted articles</b> : Articles that have been submitted by users. Sobald Bewilligung erfolgt, werden die jeweiligen Artikel den Benutzern zug&auml;nglich sein.");
 define("_AM_SSECTION_SUBMITTED_INFO", "Dieser Artikel wurde von einem Mitglied eingereicht. Sie k&ouml;nnen Ver&auml;nderungen vornehmen, falls Bedarf vorhanden ist. Bei Bewilligung, wird dieser Artikel den Benutzern zug&auml;nglich sein.");
