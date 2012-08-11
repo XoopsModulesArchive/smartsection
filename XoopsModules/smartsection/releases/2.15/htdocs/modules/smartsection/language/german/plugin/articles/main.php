@@ -27,7 +27,7 @@ define("_MD_SSECTION_HITSDETAIL", "" . "Dieser Artikel wurde gelesen");
 define("_MD_SSECTION_INDEX_CATEGORIES_SUMMARY", "Kategorie Zusammenfassung");
 define("_MD_SSECTION_INDEX_CATEGORIES_SUMMARY_INFO", "Hier ist eine Liste der jeweiligen top Kategorien, und ihrer jeweiligen Subkategorien. W&auml;en Sie eine Kategorie aus, um die sich darin befindenden Artikel aufgelisted zu bekommen.");
 define("_MD_SSECTION_INDEX_ITEMS", "Zuletzt ver&ouml;ffentlichte Artikel");
-define ("_MD_SSECTION_INDEX_ITEMS_INFO", "Dies ist eine Liste der zuletzt ver&ouml;ffentlichten Artikel.");
+define("_MD_SSECTION_INDEX_ITEMS_INFO", "Dies ist eine Liste der zuletzt ver&ouml;ffentlichten Artikel.");
 define("_MD_SSECTION_INTITEM", "Schauen Sie Sich den Artikel an, zu finden unter %s");
 define("_MD_SSECTION_INTITEMFOUND", "Hier ist ein interesanter Artikel, den ich auf %s gefunden habe");
 define("_MD_SSECTION_ITEM", "Artikel");
